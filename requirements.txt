@@ -1,5 +1,0 @@
-voila
-dash
-pandas
-scikit-learn
-numpy
